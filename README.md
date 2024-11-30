@@ -83,7 +83,7 @@ python run_ootd.py \
 - Model performance varies with body type and clothing style
 - Image quality directly impacts output realism
 
-## 🔮 Roadmap
+## Roadmap
 
 ### Upcoming Improvements
 - [ ] Enhanced multi-body type recognition
@@ -116,4 +116,3 @@ Grateful to the following projects and datasets:
 
 ---
 
-**Made with ❤️ by CIS/ZEN Challenge Team**
