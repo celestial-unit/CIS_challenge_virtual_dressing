@@ -106,3 +106,13 @@ References
     Dress Code - Full-body virtual try-on dataset
     OpenPose - Human parsing and pose estimation
     CLIP - Text and image model for clothing analysis
+
+Basic Usage
+
+    python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-path> --scale 2.0 --sample 4
+
+Example Output
+
+    Generated Image: <path-to-output-image>
+    Virtual Try-On: True
+    Outfit Recommendation: Yes
