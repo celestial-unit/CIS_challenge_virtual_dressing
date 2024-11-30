@@ -1,4 +1,4 @@
-CIS/ZEN Challenge Virtual Dressing
+#CIS/ZEN Challenge Virtual Dressing
 
 A computer vision and AI project that enables virtual try-on by fusing image data with clothing and body models to generate realistic virtual dressing.
 <p align="center"> <img src="/api/placeholder/800/400" alt="Virtual Dressing Workflow"> </p>
