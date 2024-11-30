@@ -4,7 +4,7 @@
 
 A cutting-edge computer vision and AI project that revolutionizes the way we try on clothes by leveraging advanced image fusion and deep learning techniques.
 
-![Virtual Dressing Workflow](images/Screenshot/2024-11-30 22-59-02.png)
+![Virtual Dressing Workflow](images/Screenshot/TSYP.png)
 
 ## 🚀 Key Features
 
